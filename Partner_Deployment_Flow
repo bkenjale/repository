@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-13T21:54:19.677Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="aPKLAqfgnzGp9HQty1Ra" version="12.7.0" type="github">
+<mxfile host="www.draw.io" modified="2020-02-13T22:07:28.108Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="RZZJdqBJCtX-XX2rMIHa" version="12.7.0" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="984" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="787" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="77e6c97f196da883-1" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Wholesale Infrastructure Flow&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="130" y="40" width="970" height="757" as="geometry"/>
+          <mxGeometry x="130" y="40" width="996" height="757" as="geometry"/>
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="Partner Onboarding" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry y="20" width="130" height="737" as="geometry"/>
@@ -188,9 +188,6 @@
         <mxCell id="_bINRosrzE3ILndO6Sdy-121" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;direction=south;" vertex="1" parent="77e6c97f196da883-7">
           <mxGeometry x="30" y="37.75" width="100" height="672.25" as="geometry"/>
         </mxCell>
-        <mxCell id="_bINRosrzE3ILndO6Sdy-187" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#99004D;strokeWidth=2;fontSize=7;fontColor=#FF0080;" edge="1" parent="77e6c97f196da883-7" source="_bINRosrzE3ILndO6Sdy-122" target="_bINRosrzE3ILndO6Sdy-186">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
         <mxCell id="_bINRosrzE3ILndO6Sdy-122" value="&lt;h3 id=&quot;How-To:-Setup-AWS-Account-and-OneCloud-Permissions&quot; style=&quot;margin: 10px 0px 0px ; padding: 0px ; font-size: 1.142em ; letter-spacing: -0.006em ; line-height: 1.5 ; color: rgb(23 , 43 , 77) ; white-space: pre-wrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;SQL Manager&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="77e6c97f196da883-7">
           <mxGeometry x="45" y="80" width="70" height="40" as="geometry"/>
         </mxCell>
@@ -200,8 +197,14 @@
         <mxCell id="_bINRosrzE3ILndO6Sdy-124" value="&lt;h3 id=&quot;How-To:-Setup-AWS-Account-and-OneCloud-Permissions&quot; style=&quot;margin: 10px 0px 0px ; padding: 0px ; font-size: 1.142em ; letter-spacing: -0.006em ; line-height: 1.5 ; color: rgb(23 , 43 , 77) ; white-space: pre-wrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;Timeline UI&lt;br/&gt;CloudFront&lt;/h3&gt;&lt;div&gt;S3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-7">
           <mxGeometry x="45" y="570" width="70" height="40" as="geometry"/>
         </mxCell>
+        <mxCell id="_bINRosrzE3ILndO6Sdy-203" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#99004D;strokeWidth=2;fontSize=7;fontColor=#FF0080;" edge="1" parent="77e6c97f196da883-7" source="_bINRosrzE3ILndO6Sdy-186" target="_bINRosrzE3ILndO6Sdy-202">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="_bINRosrzE3ILndO6Sdy-186" value="&lt;h3 id=&quot;How-To:-Setup-AWS-Account-and-OneCloud-Permissions&quot; style=&quot;margin: 10px 0px 0px ; padding: 0px ; font-size: 1.142em ; letter-spacing: -0.006em ; line-height: 1.5 ; color: rgb(23 , 43 , 77) ; white-space: pre-wrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;Data Manager&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="77e6c97f196da883-7">
           <mxGeometry x="45" y="200" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="_bINRosrzE3ILndO6Sdy-202" value="&lt;h3 id=&quot;How-To:-Setup-AWS-Account-and-OneCloud-Permissions&quot; style=&quot;margin: 10px 0px 0px ; padding: 0px ; font-size: 1.142em ; letter-spacing: -0.006em ; line-height: 1.5 ; color: rgb(23 , 43 , 77) ; white-space: pre-wrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;Data Manager&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="77e6c97f196da883-7">
+          <mxGeometry x="45" y="80" width="70" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="_bINRosrzE3ILndO6Sdy-99" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;TL&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="77e6c97f196da883-5">
           <mxGeometry x="40" width="40" height="20" as="geometry"/>
@@ -293,14 +296,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_bINRosrzE3ILndO6Sdy-134" value="&lt;h3 id=&quot;How-To:-Setup-AWS-Account-and-OneCloud-Permissions&quot; style=&quot;margin: 10px 0px 0px ; padding: 0px ; font-size: 1.142em ; letter-spacing: -0.006em ; line-height: 1.5 ; color: rgb(23 , 43 , 77) ; white-space: pre-wrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;font-size: 1.142em ; letter-spacing: -0.006em ; font-weight: normal&quot;&gt;Timeline-API&lt;/span&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-5">
+        <mxCell id="_bINRosrzE3ILndO6Sdy-134" value="&lt;h3 id=&quot;How-To:-Setup-AWS-Account-and-OneCloud-Permissions&quot; style=&quot;margin: 10px 0px 0px ; padding: 0px ; font-size: 1.142em ; letter-spacing: -0.006em ; line-height: 1.5 ; color: rgb(23 , 43 , 77) ; white-space: pre-wrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;font-size: 1.142em ; letter-spacing: -0.006em&quot;&gt;Timeline-API&lt;/span&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-5">
           <mxGeometry x="305" y="610" width="70" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="_bINRosrzE3ILndO6Sdy-135" value="&lt;h3 id=&quot;How-To:-Setup-AWS-Account-and-OneCloud-Permissions&quot; style=&quot;margin: 10px 0px 0px ; padding: 0px ; font-size: 1.142em ; letter-spacing: -0.006em ; line-height: 1.5 ; color: rgb(23 , 43 , 77) ; white-space: pre-wrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;Timeline-Talk-API&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-5">
           <mxGeometry x="305" y="670" width="70" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="_bINRosrzE3ILndO6Sdy-163" value="&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Interana&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="77e6c97f196da883-5">
-          <mxGeometry x="371" y="2" width="156" height="16" as="geometry"/>
         </mxCell>
         <mxCell id="_bINRosrzE3ILndO6Sdy-196" value="&lt;h3 id=&quot;How-To:-Setup-AWS-Account-and-OneCloud-Permissions&quot; style=&quot;margin: 10px 0px 0px ; padding: 0px ; font-size: 1.142em ; letter-spacing: -0.006em ; line-height: 1.5 ; color: rgb(23 , 43 , 77) ; white-space: pre-wrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;Profile Plugin&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-5">
           <mxGeometry x="305" y="420" width="70" height="43.87" as="geometry"/>
@@ -317,6 +317,9 @@
         <mxCell id="_bINRosrzE3ILndO6Sdy-193" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#99004D;strokeWidth=2;fontSize=7;fontColor=#FF0080;" edge="1" parent="77e6c97f196da883-1" source="_bINRosrzE3ILndO6Sdy-122" target="_bINRosrzE3ILndO6Sdy-13">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
+        <mxCell id="_bINRosrzE3ILndO6Sdy-163" value="&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Interana&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="77e6c97f196da883-1">
+          <mxGeometry x="890" y="20" width="60" height="737" as="geometry"/>
+        </mxCell>
         <mxCell id="_bINRosrzE3ILndO6Sdy-190" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#99004D;strokeWidth=2;fontSize=7;fontColor=#FF0080;" edge="1" parent="1" source="_bINRosrzE3ILndO6Sdy-134">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="860" y="280" as="targetPoint"/>
@@ -330,6 +333,27 @@
         <mxCell id="_bINRosrzE3ILndO6Sdy-195" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#99004D;strokeWidth=2;fontSize=7;fontColor=#FF0080;" edge="1" parent="1" source="_bINRosrzE3ILndO6Sdy-131">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="900" y="140" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_bINRosrzE3ILndO6Sdy-205" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;fontColor=#FF0080;" vertex="1" parent="1">
+          <mxGeometry x="960" y="840" width="50" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="_bINRosrzE3ILndO6Sdy-211" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=7;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="596" y="439.29999999999995" as="sourcePoint"/>
+            <mxPoint x="626" y="439" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_bINRosrzE3ILndO6Sdy-215" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=7;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="729" y="519.3" as="sourcePoint"/>
+            <mxPoint x="759" y="519" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_bINRosrzE3ILndO6Sdy-216" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=7;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="539" as="sourcePoint"/>
+            <mxPoint x="896" y="539" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
       </root>
